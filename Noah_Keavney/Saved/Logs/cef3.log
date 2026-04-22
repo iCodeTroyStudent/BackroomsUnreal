@@ -1,11 +1,22 @@
-[0418/111213.629:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
-[0418/111213.629:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
-[0418/111219.886:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
-[0418/111219.888:ERROR:cache_util.cc(144)] Unable to move cache folder Z:/Unreal Projects/Noah_Keavney/Saved/webcache_4430\Cache to Z:/Unreal Projects/Noah_Keavney/Saved/webcache_4430\old_Cache_000
-[0418/111219.890:ERROR:disk_cache.cc(184)] Unable to create cache
-[0418/111236.970:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
-[0418/111306.737:ERROR:database.cc(1707)] Cookie sqlite error 2067, errno 0: UNIQUE constraint failed: cookies.host_key, cookies.name, cookies.path, sql: INSERT INTO cookies (creation_utc, host_key, name, value, path, expires_utc, is_secure, is_httponly, last_access_utc, has_expires, is_persistent, priority, encrypted_value, samesite, source_scheme, source_port, is_same_party) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
-[0418/111306.740:ERROR:database.cc(1707)] Cookie sqlite error 2067, errno 0: UNIQUE constraint failed: cookies.host_key, cookies.name, cookies.path, sql: INSERT INTO cookies (creation_utc, host_key, name, value, path, expires_utc, is_secure, is_httponly, last_access_utc, has_expires, is_persistent, priority, encrypted_value, samesite, source_scheme, source_port, is_same_party) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
-[0418/111306.749:ERROR:database.cc(1707)] Cookie sqlite error 2067, errno 0: UNIQUE constraint failed: cookies.host_key, cookies.name, cookies.path, sql: INSERT INTO cookies (creation_utc, host_key, name, value, path, expires_utc, is_secure, is_httponly, last_access_utc, has_expires, is_persistent, priority, encrypted_value, samesite, source_scheme, source_port, is_same_party) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
-[0418/111414.620:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
-[0418/111414.620:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0422/175505.277:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+[0422/175506.920:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0422/175557.092:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(102,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4)
+
+[0422/175557.257:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(135,1): warning X4000: use of potentially uninitialized variable (f_i)
+C:\fakepath(137,1): warning X4000: use of potentially uninitialized variable (f_i)
+C:\fakepath(173,1): warning X4000: use of potentially uninitialized variable (f_u)
+
+[0422/175557.618:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(165,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel)
+
+[0422/175557.725:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(381,10-38): warning X4008: floating point division by zero
+C:\fakepath(381,10-38): warning X4008: floating point division by zero
+
+[0422/175557.818:ERROR:gl_utils.cc(314)] [.WebGL-0000029B13975C00] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
+[0422/175557.831:ERROR:gl_utils.cc(314)] [.WebGL-0000029B13975C00] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
+[0422/175557.845:ERROR:gl_utils.cc(314)] [.WebGL-0000029B13975C00] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
+[0422/175557.845:ERROR:gl_utils.cc(314)] [.WebGL-0000029B13975C00] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
+[0422/175705.804:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
