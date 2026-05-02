@@ -1,2 +1,5 @@
 2026/04/22-17:55:05.505 3190 Creating DB C:/Users/icode/OneDrive/Desktop/BackroomsUnreal/Noah_Keavney/Saved/webcache_4430\Local Storage\leveldb since it was missing.
 2026/04/22-17:55:05.515 3190 Reusing MANIFEST C:/Users/icode/OneDrive/Desktop/BackroomsUnreal/Noah_Keavney/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/04/22-19:25:00.210 5078 Level-0 table #5: started
+2026/04/22-19:25:00.215 5078 Level-0 table #5: 66778 bytes OK
+2026/04/22-19:25:00.216 5078 Delete type=0 #3
