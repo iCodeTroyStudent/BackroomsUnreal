@@ -1,0 +1,57 @@
+[25456:6728:0516/110629.416:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[25456:10528:0516/110629.822:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[25456:6728:0516/110630.017:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[25456:11260:0516/110634.989:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\icode\OneDrive\Desktop\BackroomsUnreal\Noah_Keavney\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\icode\OneDrive\Desktop\BackroomsUnreal\Noah_Keavney\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[25456:11260:0516/110634.991:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\icode\OneDrive\Desktop\BackroomsUnreal\Noah_Keavney\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\icode\OneDrive\Desktop\BackroomsUnreal\Noah_Keavney\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[25456:11260:0516/110634.992:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\icode\OneDrive\Desktop\BackroomsUnreal\Noah_Keavney\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\icode\OneDrive\Desktop\BackroomsUnreal\Noah_Keavney\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[25456:11260:0516/110634.994:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\icode\OneDrive\Desktop\BackroomsUnreal\Noah_Keavney\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\icode\OneDrive\Desktop\BackroomsUnreal\Noah_Keavney\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[25456:11260:0516/110637.810:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[25456:11260:0516/110637.812:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[16700:23404:0516/110638.127:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-9DD51776CE5B8D5CB9247A97430A1061 will be ignored
+[25456:19380:0516/110638.951:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[25456:6728:0516/110639.100:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[25456:6728:0516/110639.100:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[25456:6728:0516/110639.100:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[25456:6728:0516/110639.100:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[25456:19380:0516/110639.103:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[20716:9128:0516/110642.634:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[20716:9128:0516/110642.912:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[20716:26564:0516/110642.945:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[20716:26564:0516/110642.946:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[20716:26564:0516/110642.947:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[12552:10544:0516/110643.026:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[12552:10544:0516/110643.053:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[12552:10544:0516/110643.082:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[12552:10544:0516/110643.082:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[12552:10544:0516/110643.082:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[20716:26564:0516/110643.082:WARNING:stun_port.cc(442)] Port[54be400:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[20716:26564:0516/110643.082:WARNING:stun_port.cc(442)] Port[54bec00:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[20716:26564:0516/110643.082:WARNING:stun_port.cc(442)] Port[54bf400:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[8524:16680:0516/110846.571:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[8524:16680:0516/110846.571:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[1732:3208:0516/122342.367:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame D-6534E03D9912DBEEF240D045D5DA82B4 will be ignored
+[8524:23364:0516/122538.941:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(103,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4_int)
+
+[8524:3808:0516/122539.039:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(136,1): warning X4000: use of potentially uninitialized variable (f_i_int_int_int2)
+C:\fakepath(138,1): warning X4000: use of potentially uninitialized variable (f_i_int_int_int2)
+C:\fakepath(174,1): warning X4000: use of potentially uninitialized variable (f_u_int_int_int)
+
+[8524:8300:0516/122539.429:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(166,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel_int)
+
+[8524:24176:0516/122539.452:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(166,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel_int)
+
+[8524:3808:0516/122539.453:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(166,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel_int)
+
+[8524:6360:0516/122539.464:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(166,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel_int)
+
+[8524:18736:0516/122539.545:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(382,11-39): warning X4008: floating point division by zero
+C:\fakepath(382,11-39): warning X4008: floating point division by zero
+
+[17704:22492:0516/123022.489:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 10-A15B2E4E9F59931D6E9D3EC277E64030 will be ignored

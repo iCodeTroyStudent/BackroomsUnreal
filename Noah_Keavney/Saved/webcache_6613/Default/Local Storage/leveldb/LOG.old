@@ -1,2 +1,6 @@
-2026/05/09-10:05:26.654 5474 Creating DB C:\Users\icode\OneDrive\Desktop\BackroomsUnreal\Noah_Keavney\Saved\webcache_6613\Default\Local Storage\leveldb since it was missing.
-2026/05/09-10:05:26.672 5474 Reusing MANIFEST C:\Users\icode\OneDrive\Desktop\BackroomsUnreal\Noah_Keavney\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/05/16-11:06:30.099 5a3c Reusing MANIFEST C:\Users\icode\OneDrive\Desktop\BackroomsUnreal\Noah_Keavney\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/05/16-11:06:30.142 5a3c Recovering log #3
+2026/05/16-11:06:30.143 5a3c Reusing old log C:\Users\icode\OneDrive\Desktop\BackroomsUnreal\Noah_Keavney\Saved\webcache_6613\Default\Local Storage\leveldb/000003.log 
+2026/05/16-12:33:13.691 412c Level-0 table #5: started
+2026/05/16-12:33:13.699 412c Level-0 table #5: 69356 bytes OK
+2026/05/16-12:33:13.703 412c Delete type=0 #3
