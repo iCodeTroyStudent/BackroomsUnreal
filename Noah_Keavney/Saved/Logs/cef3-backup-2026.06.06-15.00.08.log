@@ -1,0 +1,26 @@
+[15512:23764:0516/123528.660:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[15512:25968:0516/123528.699:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[15512:23764:0516/123528.717:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[15512:8780:0516/123530.763:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\icode\OneDrive\Desktop\BackroomsUnreal\Noah_Keavney\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\icode\OneDrive\Desktop\BackroomsUnreal\Noah_Keavney\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[15512:8780:0516/123530.767:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\icode\OneDrive\Desktop\BackroomsUnreal\Noah_Keavney\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\icode\OneDrive\Desktop\BackroomsUnreal\Noah_Keavney\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[15512:8780:0516/123530.769:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\icode\OneDrive\Desktop\BackroomsUnreal\Noah_Keavney\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\icode\OneDrive\Desktop\BackroomsUnreal\Noah_Keavney\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[15512:8780:0516/123530.771:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\icode\OneDrive\Desktop\BackroomsUnreal\Noah_Keavney\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\icode\OneDrive\Desktop\BackroomsUnreal\Noah_Keavney\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[15512:8780:0516/123531.028:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[15512:8780:0516/123531.029:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[23844:5768:0516/123531.809:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-DEE0A8FFEE39564967F8B896397B4986 will be ignored
+[22472:12132:0516/123543.446:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 7-9196C3AB3BF87698CBDF6ED4A089202E will be ignored
+[17200:1400:0516/123640.553:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame A-A24FBC90518A663069FA6BE4337FE736 will be ignored
+[17780:21388:0516/123640.953:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[17780:21388:0516/123640.953:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[17780:21388:0516/123640.955:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[17780:21388:0516/123640.956:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[17780:21388:0516/123640.957:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[17780:21388:0516/123640.957:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[17780:21388:0516/123640.958:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[17780:21388:0516/123640.958:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[17780:21388:0516/123640.958:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[25084:19772:0516/123642.652:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame B-A48840EDBA632137B8A6AA826C6C0D4E will be ignored
+[25084:19772:0516/123642.652:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame B-A48840EDBA632137B8A6AA826C6C0D4E will be ignored
+[15512:23764:0516/123727.868:ERROR:menu_runner_views_aura.cc(24)] Window handle is required for default OSR context menu.
+[15512:23764:0516/123727.868:ERROR:menu_manager.cc(198)] Default context menu implementation is not available; canceling the menu
+[15512:23764:0516/125446.004:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
